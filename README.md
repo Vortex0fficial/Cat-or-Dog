@@ -13,4 +13,4 @@
 
   
 ## The .ipynb file contains the code for training the AI 
-## ** but NOT the training data required to run the TRAINING PROCESS
+- but NOT the training data required to run the TRAINING PROCESS
